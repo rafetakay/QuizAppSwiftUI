@@ -1,10 +1,10 @@
-QuizAppSwiftUI - README
+## QuizAppSwiftUI - README
 
-🎯 QuizAppSwiftUI
+## 🎯 QuizAppSwiftUI
 
 A SwiftUI-based quiz app using MVVM with AI-generated questions.
 
-📌 Features
+## 📌 Features
 
 Users can select a quiz topic.
 
@@ -17,8 +17,12 @@ Random Trivia Questions from an external API.
 Timer for each question.
 
 Built with SwiftUI and MVVM for a structured design.
+## Screenshots
 
-🛠️ Setup
+<img src="https://github.com/user-attachments/assets/18340bfe-ffac-4345-9988-0d0bf2b01d58" width="300">
+<img src="https://github.com/user-attachments/assets/86f917e6-f7fe-42cb-abd8-94fda3b336d6" width="300">
+
+## 🛠️ Setup
 
 Clone the repository:
 sh
